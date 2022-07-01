@@ -1,3 +1,3 @@
 # utsav_0
 My profile repo
-![Header](./github-header-image)
+![Header](./github-header-image.png)
